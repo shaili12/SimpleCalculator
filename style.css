@@ -1,0 +1,36 @@
+<style>
+* {
+         margin: 0px;
+         padding: 0px;
+         box-sizing: border-box;
+        }
+		.container{
+			background-color:grey;
+			height:375px;
+			width:180px;
+			border:0.5px solid white;
+			border-radius:10px;
+			margin:auto;
+			margin-top:10%;
+
+		}
+		.btn{
+			margin:3px;
+			padding:6px;
+			width:50px;
+			font-size: 15px;
+
+		}
+		.outputScreen{
+			border : 1px ,solid white;
+			margin:8px;
+		}
+		#keys{
+			margin:2px;
+		}
+		#child{
+
+			margin-top:3px;
+		}
+
+</style>		
